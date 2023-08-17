@@ -21,14 +21,27 @@ To explore the contents of this project:
 ## List of Past Web3 Hacks:
 **Here are some of the past web3 hacks I've explored:**
 
-20230809_EarningFarm
+*20230809_EarningFarm*
 
+Test
 
 ```
 forge test --contracts ./test/20230809_EarningFarm_exp.t.sol -vvv
 ```
 
-[writeup](https://dappopia.hashnode.dev/web3-hack-writeup-series-1-a-special-reentrancy-of-earningfarm-at-20230809)
+EXP
+
+[original_exp](https://github.com/descartes100/Web3Hack/blob/main/test/20230809_EarningFarm_exp.t.sol)
+
+[optimized_exp_1](https://github.com/descartes100/Web3Hack/blob/main/test/20230809_EarningFarm_exp_2.t.sol)
+
+[optimized_exp_2](https://github.com/descartes100/Web3Hack/blob/main/test/20230809_EarningFarm_exp_3.t.sol)
+
+[optimized_exp_3](https://github.com/descartes100/Web3Hack/blob/main/test/20230809_EarningFarm_exp_4.t.sol)
+
+Writeup
+
+[[Web3 Hack Writeup Series - 1] A special reentrancy of Earning.Farm at 20230809](https://dappopia.hashnode.dev/web3-hack-writeup-series-1-a-special-reentrancy-of-earningfarm-at-20230809)
 
 
 
