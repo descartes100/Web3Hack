@@ -22,7 +22,7 @@ contract ContractTest is Test {
     Exploiter exploiter;
 
     function setUp() public {
-        vm.createSelectFork("https://eth-mainnet.g.alchemy.com/v2/-QBuv4laotvyJgmEJx4RUz3U17LsZ-CY", 17875885);
+        vm.createSelectFork("mainnet", 17875885); // replace the mainnet with your rpc_url
     }
 
     function testExploit() external {
