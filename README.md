@@ -21,7 +21,7 @@ To explore the contents of this project:
 ## List of Past Web3 Hacks:
 **Here are some of the past web3 hacks I've explored:**
 
-*20230905_FloorDAO*
+### *20230905_FloorDAO*
 
 Test
 
@@ -43,7 +43,7 @@ Writeup
 
 [[Web3 Hack Writeup Series - 2] The Flashloan's fault( 20230905_FloorDAO )](https://dappopia.hashnode.dev/web3-hack-writeup-series-2-the-flashloans-fault-20230905floordao)
 
-*20230809_EarningFarm*
+### *20230809_EarningFarm*
 
 Test
 
