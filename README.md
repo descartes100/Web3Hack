@@ -66,7 +66,6 @@ Writeup
 [[Web3 Hack Writeup Series - 1] A special reentrancy of Earning.Farm at 20230809](https://dappopia.hashnode.dev/web3-hack-writeup-series-1-a-special-reentrancy-of-earningfarm-at-20230809)
 
 
-
 ## Contributions
 
 I welcome contributions from the community to enhance the project. If you have suggestions for new attack scenarios, improvements to the PoC code, or additional insights, feel free to submit a pull request. Let's work together to make the web3 space more secure!
